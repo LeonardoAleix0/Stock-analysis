@@ -40,6 +40,7 @@ Refactored Code (Separated Loop) – The picture below shows two loops separated
  
 2018 Comparison
  	 
+![2018 comparison](https://user-images.githubusercontent.com/86136535/124400648-08a29080-dcf2-11eb-985a-caa5d941a2b2.png)
 
 
 ### Summary
