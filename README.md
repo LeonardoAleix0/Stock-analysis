@@ -25,6 +25,7 @@ Original Code (Nested Loop) – In the picture below the loop J is inside loop I
 
 Refactored Code (Separated Loop) – The picture below shows two loops separated. The first loop will generate an outcome and then the code will continue to run triggering the second loop. The number of iterations will decrease based on the fact that the first code generates an outcome before the second loop starts.  
  
+![Refactored code](https://user-images.githubusercontent.com/86136535/124400450-7ea5f800-dcf0-11eb-919e-bd5406d7bba4.png)
 
 
  Run Time Results:
