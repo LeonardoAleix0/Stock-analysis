@@ -20,24 +20,20 @@ Organizing the code to run without a nested loop has streamlined it allowing mor
  
 ![Original Code](https://user-images.githubusercontent.com/86136535/124400405-18b97080-dcf0-11eb-8a96-43111cafdef3.png)
 
-
-
-
-
 **Refactored Code (Separated Loop)** – The picture below shows two loops separated. The first loop will generate an outcome and then the code will continue to run triggering the second loop. The number of iterations will decrease based on the fact that the first code generates an outcome before the second loop starts.  
  
 ![Refactored code](https://user-images.githubusercontent.com/86136535/124400450-7ea5f800-dcf0-11eb-919e-bd5406d7bba4.png)
 
 
  **Run Time:**
+ 
+ *2018 Comparison* 
+![2018 comparison](https://user-images.githubusercontent.com/86136535/124400648-08a29080-dcf2-11eb-985a-caa5d941a2b2.png)
 
 *2017 comparison*
 
 ![2017 before after](https://user-images.githubusercontent.com/86136535/124400570-82864a00-dcf1-11eb-8242-9291e64808a6.png)
 	 
- 
-*2018 Comparison* 
-![2018 comparison](https://user-images.githubusercontent.com/86136535/124400648-08a29080-dcf2-11eb-985a-caa5d941a2b2.png)
 ### Summary
 
 **Advantages**
