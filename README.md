@@ -32,10 +32,13 @@ Refactored Code (Separated Loop) – The picture below shows two loops separated
  Run Time Results:
 
 
-2017 Before	2017 After
+2017 comparison
+
+![2017 before after](https://user-images.githubusercontent.com/86136535/124400570-82864a00-dcf1-11eb-8242-9291e64808a6.png)
+
  	 
  
-2018 Before	2018 After
+2018 Comparison
  	 
 
 
