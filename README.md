@@ -16,7 +16,7 @@ The refactored code showed improvements in the run time of the code when compare
 Organizing the code to run without a nested loop has streamlined it allowing more efficiency throughout the process. Below are the results achieved:
 
 
-Original Code (Nested Loop) – In the picture below the loop J is inside loop I, meaning that an outcome will be generated after both loops finish their iterations. 
+**Original Code (Nested Loop)** – In the picture below the loop J is inside loop I, meaning that an outcome will be generated after both loops finish their iterations. 
  
 ![Original Code](https://user-images.githubusercontent.com/86136535/124400405-18b97080-dcf0-11eb-8a96-43111cafdef3.png)
 
@@ -24,31 +24,32 @@ Original Code (Nested Loop) – In the picture below the loop J is inside loop I
 
 
 
-Refactored Code (Separated Loop) – The picture below shows two loops separated. The first loop will generate an outcome and then the code will continue to run triggering the second loop. The number of iterations will decrease based on the fact that the first code generates an outcome before the second loop starts.  
+**Refactored Code (Separated Loop)** – The picture below shows two loops separated. The first loop will generate an outcome and then the code will continue to run triggering the second loop. The number of iterations will decrease based on the fact that the first code generates an outcome before the second loop starts.  
  
 ![Refactored code](https://user-images.githubusercontent.com/86136535/124400450-7ea5f800-dcf0-11eb-919e-bd5406d7bba4.png)
 
 
- Run Time Results:
+ **Run Time:**
 
 
-2017 comparison
+*2017 comparison*
 
 ![2017 before after](https://user-images.githubusercontent.com/86136535/124400570-82864a00-dcf1-11eb-8242-9291e64808a6.png)
 
  	 
  
-2018 Comparison
+*2018 Comparison*
  	 
 ![2018 comparison](https://user-images.githubusercontent.com/86136535/124400648-08a29080-dcf2-11eb-985a-caa5d941a2b2.png)
-
-
 ### Summary
-##Advantages
+
+**Advantages**
+
 Although the improvements in run time presented an advantage when running large datasets, refactoring will also improve the design of the code which allows for easier readability and helps to identify bugs.
 Another important aspect of refactoring is the support of code development. Dedicating time to enhance the code will bring new features and ideas for future projects developing a continuous learning process that is beneficial to all parts involved in a project.
 
-##Disadivantages
+**Disadivantages**
+
 Code refactoring may also present some disadvantages related to time and cost of refactoring. In large code sets, the time needed to complete the task can be unpredictable due to the its complexity and the cost involved in the refactoring will be proportional to the time needed to complete the task. Another aspect is that depending on the complexity of the code, it can lead to mistakes that will potentially increase the amount of time to refactor, to identify bugs and deploy a fix.
 
 
