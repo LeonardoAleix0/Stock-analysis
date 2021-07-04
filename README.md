@@ -18,7 +18,7 @@ Organizing the code to run without a nested loop has streamlined it allowing mor
 
 Original Code (Nested Loop) – In the picture below the loop J is inside loop I, meaning that an outcome will be generated after both loops finish their iterations. 
  
-
+https://github.com/LeonardoAleix0/stock-analysis/issues/1#issue-936546950
 
 
 
