@@ -31,15 +31,12 @@ Organizing the code to run without a nested loop has streamlined it allowing mor
 
  **Run Time:**
 
-
 *2017 comparison*
 
 ![2017 before after](https://user-images.githubusercontent.com/86136535/124400570-82864a00-dcf1-11eb-8242-9291e64808a6.png)
-
- 	 
+	 
  
-*2018 Comparison*
- 	 
+*2018 Comparison* 
 ![2018 comparison](https://user-images.githubusercontent.com/86136535/124400648-08a29080-dcf2-11eb-985a-caa5d941a2b2.png)
 ### Summary
 
@@ -48,7 +45,7 @@ Organizing the code to run without a nested loop has streamlined it allowing mor
 Although the improvements in run time presented an advantage when running large datasets, refactoring will also improve the design of the code which allows for easier readability and helps to identify bugs.
 Another important aspect of refactoring is the support of code development. Dedicating time to enhance the code will bring new features and ideas for future projects developing a continuous learning process that is beneficial to all parts involved in a project.
 
-**Disadivantages**
+**Disadvantages**
 
 Code refactoring may also present some disadvantages related to time and cost of refactoring. In large code sets, the time needed to complete the task can be unpredictable due to the its complexity and the cost involved in the refactoring will be proportional to the time needed to complete the task. Another aspect is that depending on the complexity of the code, it can lead to mistakes that will potentially increase the amount of time to refactor, to identify bugs and deploy a fix.
 
