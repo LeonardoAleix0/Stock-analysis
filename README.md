@@ -1,4 +1,4 @@
-# **Stocky Analysis Visual Basic for Applications (VBA)**
+# **Stock Analysis Visual Basic for Applications (VBA)**
 
  ## Overview of Project
 
